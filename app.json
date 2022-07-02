@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "WebPwa",
+    "slug": "WebPwa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
